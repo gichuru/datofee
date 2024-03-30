@@ -1,0 +1,18 @@
+current directory: /Users/gichuru/projects/datofee/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/gichuru/.rvm/rubies/ruby-3.1.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/gichuru/projects/datofee/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240330-51499-l83ls3 sitelibdir\=./.gem.20240330-51499-l83ls3 clean
+
+current directory: /Users/gichuru/projects/datofee/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240330-51499-l83ls3 sitelibdir\=./.gem.20240330-51499-l83ls3
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/gichuru/projects/datofee/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240330-51499-l83ls3 sitelibdir\=./.gem.20240330-51499-l83ls3 install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20240330-51499-l83ls3/racc
+
+current directory: /Users/gichuru/projects/datofee/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240330-51499-l83ls3 sitelibdir\=./.gem.20240330-51499-l83ls3 clean

@@ -1,0 +1,18 @@
+current directory: /Users/gichuru/projects/datofee/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+/Users/gichuru/.rvm/rubies/ruby-3.1.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/gichuru/projects/datofee/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240330-51499-snq191 sitelibdir\=./.gem.20240330-51499-snq191 clean
+
+current directory: /Users/gichuru/projects/datofee/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240330-51499-snq191 sitelibdir\=./.gem.20240330-51499-snq191
+compiling stringio.c
+linking shared-object stringio.bundle
+
+current directory: /Users/gichuru/projects/datofee/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240330-51499-snq191 sitelibdir\=./.gem.20240330-51499-snq191 install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 stringio.bundle ./.gem.20240330-51499-snq191
+
+current directory: /Users/gichuru/projects/datofee/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240330-51499-snq191 sitelibdir\=./.gem.20240330-51499-snq191 clean

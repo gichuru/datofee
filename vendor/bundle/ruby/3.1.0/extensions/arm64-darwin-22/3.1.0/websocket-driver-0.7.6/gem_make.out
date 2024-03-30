@@ -1,0 +1,18 @@
+current directory: /Users/gichuru/projects/datofee/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/Users/gichuru/.rvm/rubies/ruby-3.1.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/gichuru/projects/datofee/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240330-51499-bd5nox sitelibdir\=./.gem.20240330-51499-bd5nox clean
+
+current directory: /Users/gichuru/projects/datofee/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240330-51499-bd5nox sitelibdir\=./.gem.20240330-51499-bd5nox
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/gichuru/projects/datofee/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240330-51499-bd5nox sitelibdir\=./.gem.20240330-51499-bd5nox install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20240330-51499-bd5nox
+
+current directory: /Users/gichuru/projects/datofee/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240330-51499-bd5nox sitelibdir\=./.gem.20240330-51499-bd5nox clean
